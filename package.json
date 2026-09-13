@@ -1,0 +1,19 @@
+{
+  "name": "stash-plugins-js-lib",
+  "version": "1.0.0",
+  "main": "plugins/stashUserscriptLibrary7dJx1qPFork/stashUserscriptLibrary7dJx1qPFork.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebiggestpain/7dJx1qP-stash-plugins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebiggestpain/7dJx1qP-stash-plugins/issues"
+  },
+  "homepage": "https://github.com/thebiggestpain/7dJx1qP-stash-plugins#readme",
+  "description": ""
+}
