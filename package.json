@@ -1,7 +1,7 @@
 {
   "name": "stash-plugins-js-lib",
   "version": "1.0.0",
-  "main": "plugins/stashUserscriptLibrary7dJx1qPFork/stashUserscriptLibrary7dJx1qPFork.js",
+  "main": "plugins/stashUserscriptLibrary7dJx1qPFork/stashUserscriptLibrary7dJx1qPFork.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
